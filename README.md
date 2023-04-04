@@ -1,5 +1,5 @@
 Daytripper
-Description
+
 Daytripper is a web application that helps users find travel destinations based on their interests that are within a day's trip of their location. Users can register an account to access the Trip Finder, which allows them to select their interests and the length of trip they're able to fit into their day. The application will return a list of matching destinations with an option to save them to the user's Trip Page. Users can click on a saved trip to link to a third-party site for more information about that location. Additionally, users have an option to submit new day trips for review, and the admin can review and add/delete the trips that have been suggested.
 
 Installation
